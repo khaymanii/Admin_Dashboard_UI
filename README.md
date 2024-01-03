@@ -1,6 +1,6 @@
 ![Screenshot 2023-04-06 103831](https://user-images.githubusercontent.com/116851212/230338778-94c5ef1d-fdcb-40de-932c-d06ca5470c07.png)
 
-## Ecommerce Admin Dashboard
+## Shoppy Admin Dashboard
 
 Welcome to the React Static Dashboard project! This dashboard is designed for scenarios where real-time data updates are not necessary, offering a static and lightweight frontend solution. Built with React and Syncfusion UI library, it provides a flexible and customizable structure for creating visually appealing dashboards.
 
